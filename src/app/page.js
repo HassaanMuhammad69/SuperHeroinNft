@@ -6,9 +6,9 @@ import Image from 'next/image'
 
 export default function Home() {
   return(
-    <main>
+    <main >
        <div className='absolute  z-10 w-full opacity-50'>
-        <Image src={BackGround1} />
+        <Image src={BackGround1}  />
       </div>
       <Navbar/>
       <Hero/>

@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { BackGround1 } from '@/data'
+import { MainCharacter,SideCharacter1,SideCharacter2 } from '@/data'
 
 
 const Hero = () => {
@@ -15,6 +15,13 @@ const Hero = () => {
       <div className='flex justify-center mt-2' >
         <button className=' bg-yellow-500 z-10 px-2 py-1 text-black rounded-2xl'>Let's Explore</button>
       </div>
+
+<div className="flex justify-center z-20 mt-8">
+  <div className='z-20 w-1/3 mt-28'><Image src={SideCharacter1} width={440} height={505}/></div>
+  <div className='z-20 w-1/3'><Image src={MainCharacter} width={678} height={807} /></div>
+  <div className='z-20 w-1/3 mt-28'><Image src={SideCharacter2} width={440} height={505}/></div>
+</div>
+
 
 
     </section>
