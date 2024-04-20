@@ -34,7 +34,7 @@ const Aboutus = () => {
                         <div className="flex items-center gap-2">
                             <h2 className="text-2xl text-yellow-400">To Our Holders:</h2>
                             <p>
-                                brace yourselves for what's coming. It's going to be
+                                brace yourselves for whats coming. Its going to be
                                 legendary!
                             </p>
                         </div>

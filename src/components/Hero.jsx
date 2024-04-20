@@ -13,7 +13,7 @@ const Hero = () => {
       </div>
       <p className=' text-white text-center text-md font-bold mt-4 z-10 flex justify-center items-center'>Discover Superheroine Era, join The League and gain prime <br /> access to exclusive launch information and giveaways.</p>
       <div className='flex justify-center mt-2' >
-        <button className=' bg-yellow-500 z-10 px-2 py-1 text-black rounded-2xl'>Let's Explore</button>
+        <button className=' bg-yellow-500 z-10 px-2 py-1 text-black rounded-2xl'>Lets Explore</button>
       </div>
 
       <div className="flex justify-center z-20 mt-8">

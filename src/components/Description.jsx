@@ -13,7 +13,7 @@ const Description = () => {
                     WELCOME TO THE NEXT <br />  LEAGUE OF DIGITAL  <br /> COLLECTIBLES.</h1>
             </div>
             <p className=' text-white text-center text-md font-bold mt-4 z-10 flex justify-center items-center'>
-                Imagine owning superhero IP before it made headlines<br/> We're at the starting line of a digital IP <br/>innovation race, and a few fortunate early <br/>adopters are about to pilot the next wave of<br/> superhero market adoption. Rising to champion<br/> this movement is Superheroine Era.
+                Imagine owning superhero IP before it made headlines<br/> We re at the starting line of a digital IP <br/>innovation race, and a few fortunate early <br/>adopters are about to pilot the next wave of<br/> superhero market adoption. Rising to champion<br/> this movement is Superheroine Era.
             </p>
             
         </section>
