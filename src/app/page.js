@@ -4,6 +4,7 @@ import { BackGround1 } from "@/data";
 import Image from 'next/image'
 import Description from "@/components/Description";
 import Community from "@/components/Community";
+import Aboutus from "@/components/Aboutus";
 
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
       <Navbar/>
       <Hero/>
       <Description/>
+      <Aboutus/>
       <Community/>
     </main>
   )
