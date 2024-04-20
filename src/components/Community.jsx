@@ -18,7 +18,7 @@ const Community = () => {
             </div>
 
             <div className="flex justify-center z-20 mt-8">
-                <Image src={LandPage} width={650} height={500} />
+                <Image src={LandPage} alt='joinCommunity' width={650} height={500} />
             </div>
 
             <p className=' text-white text-center text-md font-bold mt-4 z-10 flex justify-center items-center'>

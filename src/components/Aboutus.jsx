@@ -10,16 +10,17 @@ const Aboutus = () => {
                 <div className="w-full h-[745px]">
                     <Image
                         src={Reactangle}
+                        alt='reactangle'
                         className="opacity-30 absolute block w-full h-full"
                     />
                 </div>
                 <div className="flex justify-center items-center gap-8 absolute top-0">
                     <div className="flex-[0.4]">
-                        <Image src={MainCharacter} className="w-full h-full" />
+                        <Image src={MainCharacter} alt='mainCharachter' className="w-full h-full" />
                     </div>
                     <div className="flex flex-col flex-[0.5] items-start gap-6">
                         <div className="w-[400px] h-[40px]">
-                            <Image src={Yellow} className="block w-full" />
+                            <Image src={Yellow} alt='logo' className="block w-full" />
                         </div>
                         <h2 className="text-2xl text-yellow-400">About Us</h2>
                         <p>
